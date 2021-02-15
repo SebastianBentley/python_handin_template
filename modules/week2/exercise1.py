@@ -16,7 +16,8 @@ def print_file_content(file):
 def write_list_to_file(output_file, lst):
     with open(output_file, 'w') as f:
         for item in lst:
-            f.write(item + '\n')
+            for elm in item:
+                f.write(elm + '\n')
 
 #TEST: write_list_to_file('/home/jovyan/python_handin_template/modules/week2/writeTuples.txt', ('Sven', 'Ole','Banankage'))
             
@@ -44,16 +45,16 @@ def read_csv(input_file):
 parser = argparse.ArgumentParser(description='Week 2 Exercise 1')
 
 #A. path to csv file
-parser.add_argument('csv_file', help="a csv_file")
+#parser.add_argument('csv_file', help="a csv_file")
 
 #B. an argument --file file_name that if given will write the content to file_name or otherwise will print it to the console.
-parser.add_argument('-f', '--file', default='printMe', help='Optional file written to from csv_file')
-args = parser.parse_args();
+#parser.add_argument('-f', '--file', default='printMe', help='Optional file written to from csv_file')
+#args = parser.parse_args();
 
-if(args.file == 'printMe'):
-    print_file_content(args.csv_file)
-else:
-    write_list_to_file(args.file, read_csv(args.csv_file))
+#if(args.file == 'printMe'):
+#    print_file_content(args.csv_file)
+#else:
+#    write_list_to_file(args.file, read_csv(args.csv_file))
 
 #3. Add a --help cli argument to describe how the module is used
 # Already built in

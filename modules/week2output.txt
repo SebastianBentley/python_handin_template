@@ -1,24 +1,12 @@
 __init__.py
 __pycache__
+employees.csv
 exercise1.py
 output.txt
 test.txt
 utils.py
 utils_test.py
 writeTuples.txt
-['__init__.py', 'exercise1.py', 'output.txt', 'test.txt', 'utils.py', 'utils_test.py', 'writeTuples.txt']
-['utils.cpython-37.pyc']
-['__init__.py', 'exercise1.py', 'output.txt', 'test.txt', 'utils.py', 'utils_test.py', 'writeTuples.txt']
-['utils.cpython-37.pyc']
-__init__.py
-exercise1.py
-output.txt
-test.txt
-utils.py
-utils_test.py
-writeTuples.txt
-utils.cpython-37.pyc
-hej@hej.dk
 __init__.py
 __pycache__
 employees.csv
@@ -64,12 +52,6 @@ test.txt
 utils.py
 utils_test.py
 writeTuples.txt
-# python Handin Template
-# python Handin Template
-# python Handin Template
-# python Handin Template
-# python Handin Template
-# python Handin Template
 __init__.py
 __pycache__
 employees.csv

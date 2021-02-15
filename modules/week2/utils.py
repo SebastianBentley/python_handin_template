@@ -35,7 +35,7 @@ def print_emails(file_names):
                     print(line)
 
 # """takes a list of md files and writes all headlines (lines starting with #) to a file"""
-def write_headlines(md_files, out='/home/jovyan/python_handin_template/modules/week2/output.txt'):
+def write_headlines(md_files, out='output.txt'):
     for file in md_files:
         with open(file) as f:
             lines = f.readlines()
