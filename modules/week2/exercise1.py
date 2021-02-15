@@ -6,9 +6,7 @@ import argparse
 #A. def print_file_content(file) that can print content of a csv file to the console
 def print_file_content(file):
     with open(file) as f:
-        content = f.readlines()
-        for line in content:
-            print(line)
+        print(f.read())
 
 #TEST: cprint_file_content('/home/jovyan/data/iris_data.csv')
 
