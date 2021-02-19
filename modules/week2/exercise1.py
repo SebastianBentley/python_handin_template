@@ -8,7 +8,7 @@ def print_file_content(file):
     with open(file) as f:
         print(f.read())
 
-#TEST: cprint_file_content('/home/jovyan/data/iris_data.csv')
+
 
 #B. def write_list_to_file(output_file, lst) that can take a list of tuple and write each element to a new line in file
 def write_list_to_file(output_file, lst):
@@ -17,7 +17,7 @@ def write_list_to_file(output_file, lst):
             for elm in item:
                 f.write(elm + '\n')
 
-#TEST: write_list_to_file('/home/jovyan/python_handin_template/modules/week2/writeTuples.txt', ('Sven', 'Ole','Banankage'))
+
             
 # a.rewrite the function so that it gets an arbitrary number of strings instead of a list
 def write_list_to_file2(output_file, *words):
@@ -25,7 +25,7 @@ def write_list_to_file2(output_file, *words):
         for item in words:
             f.write(item + '\n')
 
-#TEST: write_list_to_file2('/home/jovyan/python_handin_template/modules/week2/writeTuples.txt', 'Sponsered', 'by','rystrouteren.dk')
+
 
 #C. def read_csv(input_file) that take a csv file and read each row into a list
 def read_csv(input_file):
@@ -37,7 +37,7 @@ def read_csv(input_file):
             
     return lst
 
-#TEST: print(read_csv('/home/jovyan/data/science.csv'))
+
 
 #2. Add a functionality so that the file can be called from cli with 2 arguments
 parser = argparse.ArgumentParser(description='Week 2 Exercise 1')
