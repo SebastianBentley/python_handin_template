@@ -1,0 +1,186 @@
+1616177753177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4x6wFP"
+Error: no DISPLAY environment variable specified
+1616177771983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCw5VZx"
+Error: no DISPLAY environment variable specified
+1616177825895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7kXiJE"
+Error: no DISPLAY environment variable specified
+1616177902081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSkFraA"
+Error: no DISPLAY environment variable specified
+1616177935162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerdtG96"
+Error: no DISPLAY environment variable specified
+1616178072412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebLpgtN"
+Error: no DISPLAY environment variable specified
+1616178158618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledLs4LD"
+Error: no DISPLAY environment variable specified
+1616178285684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX9hGhW"
+Error: no DISPLAY environment variable specified
+1616178358354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8xl133"
+Error: no DISPLAY environment variable specified
+1616178535717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefyTRrY"
+Error: no DISPLAY environment variable specified
+1616178651039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqAPg5L"
+*** You are running in headless mode.
+
+(firefox:207): GLib-GObject-WARNING **: 18:30:51.572: invalid (NULL) pointer instance
+
+(firefox:207): GLib-GObject-CRITICAL **: 18:30:51.572: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:394): GLib-GObject-WARNING **: 18:30:52.228: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:394): GLib-GObject-CRITICAL **: 18:30:52.229: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:413): GLib-GObject-WARNING **: 18:30:52.368: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:413): GLib-GObject-CRITICAL **: 18:30:52.370: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616178653630	Marionette	INFO	Listening on port 45231
+
+(/usr/lib/firefox/firefox:475): GLib-GObject-WARNING **: 18:30:53.671: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:475): GLib-GObject-CRITICAL **: 18:30:53.672: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616178653684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616178795438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5QrV6n"
+*** You are running in headless mode.
+
+(firefox:558): GLib-GObject-WARNING **: 18:33:15.794: invalid (NULL) pointer instance
+
+(firefox:558): GLib-GObject-CRITICAL **: 18:33:15.796: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:683): GLib-GObject-WARNING **: 18:33:16.193: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:683): GLib-GObject-CRITICAL **: 18:33:16.194: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:702): GLib-GObject-WARNING **: 18:33:16.309: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:702): GLib-GObject-CRITICAL **: 18:33:16.310: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:762): GLib-GObject-WARNING **: 18:33:17.417: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:762): GLib-GObject-CRITICAL **: 18:33:17.418: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616178797426	Marionette	INFO	Listening on port 41161
+1616178797475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1616178806625	Marionette	INFO	Stopped listening on port 41161
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616178910472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD6CIE0"
+*** You are running in headless mode.
+
+(firefox:824): GLib-GObject-WARNING **: 18:35:10.779: invalid (NULL) pointer instance
+
+(firefox:824): GLib-GObject-CRITICAL **: 18:35:10.780: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1052): GLib-GObject-WARNING **: 18:35:11.205: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1052): GLib-GObject-CRITICAL **: 18:35:11.206: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1071): GLib-GObject-WARNING **: 18:35:11.310: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1071): GLib-GObject-CRITICAL **: 18:35:11.310: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:1136): GLib-GObject-WARNING **: 18:35:12.589: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1136): GLib-GObject-CRITICAL **: 18:35:12.591: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616178912606	Marionette	INFO	Listening on port 45469
+1616178912710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+1616178921363	Marionette	INFO	Stopped listening on port 45469
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616179078802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM963Af"
+*** You are running in headless mode.
+
+(firefox:1213): GLib-GObject-WARNING **: 18:37:59.123: invalid (NULL) pointer instance
+
+(firefox:1213): GLib-GObject-CRITICAL **: 18:37:59.123: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1255): GLib-GObject-WARNING **: 18:37:59.468: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1255): GLib-GObject-CRITICAL **: 18:37:59.469: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1331): GLib-GObject-WARNING **: 18:37:59.588: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1331): GLib-GObject-CRITICAL **: 18:37:59.589: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:1390): GLib-GObject-WARNING **: 18:38:00.740: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1390): GLib-GObject-CRITICAL **: 18:38:00.741: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616179080748	Marionette	INFO	Listening on port 39417
+1616179080829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1616179090035	Marionette	INFO	Stopped listening on port 39417
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616179129993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu5Zhl9"
+*** You are running in headless mode.
+
+(firefox:1457): GLib-GObject-WARNING **: 18:38:50.395: invalid (NULL) pointer instance
+
+(firefox:1457): GLib-GObject-CRITICAL **: 18:38:50.396: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1667): GLib-GObject-WARNING **: 18:38:50.826: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1667): GLib-GObject-CRITICAL **: 18:38:50.834: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1686): GLib-GObject-WARNING **: 18:38:50.928: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1686): GLib-GObject-CRITICAL **: 18:38:50.930: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616179132066	Marionette	INFO	Listening on port 34653
+
+(/usr/lib/firefox/firefox:1746): GLib-GObject-WARNING **: 18:38:52.096: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1746): GLib-GObject-CRITICAL **: 18:38:52.097: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616179132127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+1616179141331	Marionette	INFO	Stopped listening on port 34653
+1616179215371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY5IO82"
+*** You are running in headless mode.
+
+(firefox:1824): GLib-GObject-WARNING **: 18:40:15.663: invalid (NULL) pointer instance
+
+(firefox:1824): GLib-GObject-CRITICAL **: 18:40:15.664: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2041): GLib-GObject-WARNING **: 18:40:16.081: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2041): GLib-GObject-CRITICAL **: 18:40:16.082: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2060): GLib-GObject-WARNING **: 18:40:16.173: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2060): GLib-GObject-CRITICAL **: 18:40:16.174: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616179217352	Marionette	INFO	Listening on port 35979
+
+(/usr/lib/firefox/firefox:2120): GLib-GObject-WARNING **: 18:40:17.365: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2120): GLib-GObject-CRITICAL **: 18:40:17.367: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616179217405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/featherlight.js?28092015, line 550: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery-counter-countdown.js?23102015, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/INTERSHOP/static/WFS/store-elgigantenDK-Site/elgigantenDK/store-elgigantenDK/da_DK/jquery.matchHeight-min.js?02072015, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop, line 1199: ReferenceError: jQuery is not defined
+1616179226640	Marionette	INFO	Stopped listening on port 35979
